@@ -4,7 +4,7 @@ const encrypt = require('./index');
 
 describe('encrypt', function()
 {
-    it('Test Case 1: should return corrrect encrypted message', function()
+    it('Test Case 1: should return correct encrypted message', function()
     {
         const key = 'ab c';
         const message = 'abc ab';
@@ -15,7 +15,7 @@ describe('encrypt', function()
         chai.expect(encryptedMessage).to.equal(expected);
     });
 
-    it('Test Case 2: should return corrrect encrypted message', function()
+    it('Test Case 2: should return correct encrypted message', function()
     {
         const key = 'otorhinolaryngological';
         const message = 'My name is Paul';
@@ -26,7 +26,7 @@ describe('encrypt', function()
         chai.expect(encryptedMessage).to.equal(expected);
     });
 
-    it('Test Case 3: should return corrrect encrypted message', function()
+    it('Test Case 3: should return correct encrypted message', function()
     {
         const key = 'gaderypoluk';
         const message = 'This is an encrypted message';
