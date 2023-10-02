@@ -28,7 +28,7 @@ describe('encrypt', function()
 
     it('Test Case 3: should return correct encrypted message', function()
     {
-        const key = 'gaderypoluk';
+        const key = 'gaderypoluki';
         const message = 'This is an encrypted message';
         const expected = 'Thks ks gn dncyrotde mdssgad';
 
