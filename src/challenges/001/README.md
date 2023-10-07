@@ -39,3 +39,7 @@ encrypt("otorhinolaryngological", 'My name is Paul') // 'Mr olme hs Plua'
 encrypt('gaderypoluki', 'This is an encrypted message') // 'Thks ks gn dncyrotde mdssgad'
 ```
 
+## Test
+```sh
+npx mocha src/challenges/001/index.test.js
+```
