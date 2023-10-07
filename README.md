@@ -47,7 +47,7 @@ You can run a specific Mocha test file by providing the path to that test file a
 
 ### Running a Specific Test File
 
-Suppose you want to run the tests located in the `src/challenges001/index.test.js` file, which corresponds to a specific challenge. Here's how you can do it:
+Suppose you want to run the tests located in the `src/challenges/001/index.test.js` file, which corresponds to a specific challenge. Here's how you can do it:
 
 ```sh
 npx mocha src/challenges/001/index.test.js
