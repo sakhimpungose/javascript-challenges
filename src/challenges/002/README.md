@@ -1,4 +1,4 @@
-# Encryption Challenge
+# Matrix Rotation
 
 ## Rating
 ⭐⭐⭐⭐⭐ (5/5)
